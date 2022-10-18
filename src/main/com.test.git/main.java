@@ -3,5 +3,6 @@ public class main {
         System.out.println("hellosq1");
         System.out.println("hellosq");
         System.out.println("hellosq");
+        System.out.println("hellosq");
     }
 }
